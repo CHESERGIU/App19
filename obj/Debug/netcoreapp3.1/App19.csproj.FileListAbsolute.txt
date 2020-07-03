@@ -1,0 +1,11 @@
+C:\Users\sergi\source\repos\App19\bin\Debug\netcoreapp3.1\App19.exe
+C:\Users\sergi\source\repos\App19\bin\Debug\netcoreapp3.1\App19.deps.json
+C:\Users\sergi\source\repos\App19\bin\Debug\netcoreapp3.1\App19.runtimeconfig.json
+C:\Users\sergi\source\repos\App19\bin\Debug\netcoreapp3.1\App19.runtimeconfig.dev.json
+C:\Users\sergi\source\repos\App19\bin\Debug\netcoreapp3.1\App19.dll
+C:\Users\sergi\source\repos\App19\bin\Debug\netcoreapp3.1\App19.pdb
+C:\Users\sergi\source\repos\App19\obj\Debug\netcoreapp3.1\App19.csprojAssemblyReference.cache
+C:\Users\sergi\source\repos\App19\obj\Debug\netcoreapp3.1\App19.AssemblyInfoInputs.cache
+C:\Users\sergi\source\repos\App19\obj\Debug\netcoreapp3.1\App19.AssemblyInfo.cs
+C:\Users\sergi\source\repos\App19\obj\Debug\netcoreapp3.1\App19.dll
+C:\Users\sergi\source\repos\App19\obj\Debug\netcoreapp3.1\App19.pdb
